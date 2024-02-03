@@ -2285,10 +2285,5 @@ a:focus {
     .footer-news-letter{
         width: 62% !important;
     }
-    @media (max-width: 2560) {
-        .carousel {
-            width: 100px;
-        }
-    }
     
 }
