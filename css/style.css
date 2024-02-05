@@ -580,7 +580,8 @@ a:focus {
     }
     
     .carousel .carousel-text p {
-        font-size: 16px;
+        font-size: 12px;
+        width: 70%;
     }
     
     .carousel .carousel-text .btn {
