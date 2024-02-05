@@ -60,14 +60,14 @@ body {
         align-items: center;
         position: relative;
         font-size: 35px;
-        margin-left: 90px;
+        margin-left: 115px;
         margin-top: 100px;
     }
     .countdown {
         font-family: 'Protest Riot', sans-serif;
         font-size: 15px;
         font-weight: 200;
-        margin-left: 30px;
+        margin-left: 80px;
         color: #fff;
     }
 
@@ -581,7 +581,7 @@ a:focus {
     
     .carousel .carousel-text p {
         font-size: 12px;
-        width: 70%;
+        width: 65%;
     }
     
     .carousel .carousel-text .btn {
